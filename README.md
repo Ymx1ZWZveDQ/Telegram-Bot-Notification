@@ -1,4 +1,5 @@
-How to generate bot API toekn 
+# Telegram Bot Notification
+How to generate bot API token
 
 1. Open Telegram
 2. Search @botfather
